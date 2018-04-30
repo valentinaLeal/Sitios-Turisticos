@@ -1,0 +1,107 @@
+[
+{
+    "id" : "document",
+    "name" : "Marcadores a partir de un CZML",
+    "version" : "1.0"
+}, {
+    "id" : "point",
+    "position" : {
+       "epoch" : "2018-01-01T00:00:00Z",
+        "cartographicDegrees" : [
+            0,   -74.06540125608444,4.628043374453956, 50,
+            60, -74.06540125608444,4.628043374453956, 50
+        ]
+    },
+    "point" : {
+        "color" : {
+            "rgba" : [255, 255, 255, 128]
+        },
+        "outlineColor" : {
+            "rgba" : [255, 0, 0, 128]
+        },
+        "outlineWidth" : 3,
+        "pixelSize" : 15
+    }
+},{
+    "id" : "point2",
+    "name" : "Centro Administrativo Distrital",
+    "description" : "CAD",
+    "label" : {
+        "font" : "12pt Lucida Console",
+        "horizontalOrigin" : "LEFT",
+        "pixelOffset" : {
+            "cartesian2" : [8, 0]
+        },
+        "style" : "FILL",
+        "text" : "CAD",
+        "showBackground" : true,
+        "backgroundColor" : {
+            "rgba" : [112, 89, 57, 200]
+        }
+    },
+    
+    "position" : {
+           "epoch" : "2018-01-01T00:00:00Z",
+        "cartographicDegrees" : [
+            8, -74.081039,4.625475, 50,
+            60,-74.081039,4.625475, 50
+        ]
+    },
+    "point" : {
+        "color" : {
+            "rgba" : [255, 255, 255, 128]
+        },
+        "outlineColor" : {
+            "rgba" : [255, 0, 0, 128]
+        },
+        "outlineWidth" : 3,
+        "pixelSize" : 15
+    }
+},
+{
+    "id" : "point3",
+    "name" : "Puente Aranda",
+    "description" : "Deriva su nombre del puente de la antigua hacienda de <b>Juan Aranda</b> sobre el <a href='https://es.wikipedia.org/wiki/Puente_Aranda'>río Chinúa</a>, hoy llamado río San Francisco, construida a finales del siglo XVI.<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Avenida_de_Las_Américas%2C_Bogotá.JPG/250px-Avenida_de_Las_Américas%2C_Bogotá.JPG'>",
+    "position" : {
+        "epoch" : "2018-01-01T00:00:00Z",
+        "cartographicDegrees" : [
+            22,-74.106917,4.626459, 50,
+            60,-74.106917,4.626459, 50
+        ]
+    },
+    "point" : {
+        "color" : {
+            "rgba" : [255, 255, 255, 128]
+        },
+        "outlineColor" : {
+            "rgba" : [255, 0, 0, 128]
+        },
+        "outlineWidth" : 3,
+        "pixelSize" : 15
+    }
+},
+{
+    "id" : "point4",
+    
+    "name" : "Humedal La Vaca (costado Norte)",
+    "description" : "Uno de los pocos que subsisten en la zona",
+    "position" : {
+       "epoch" : "2018-01-01T00:00:00Z",
+        "cartographicDegrees" : [
+            52, -74.160589, 4.627520, 50,
+            60, -74.160589, 4.627520, 50
+        ]
+    },
+    "point" : {
+        "color" : {
+            "rgba" : [255, 255, 255, 128]
+        },
+        "outlineColor" : {
+            "rgba" : [255, 0, 0, 128]
+        },
+        "outlineWidth" : 3,
+        "pixelSize" : 15
+    }
+}
+
+]
